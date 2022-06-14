@@ -2,7 +2,7 @@
 ![](https://github.com/huetran2k2/JavaFx/blob/main/PnvProject/image/cautruc.PNG)
 2. Ảnh chụp Entity Relationship Model<br>
 ![](https://github.com/huetran2k2/JavaFx/blob/main/PnvProject/image/diagram.PNG)
-3. Đường link tới video demo ()
+3. Đường link tới video demo (https://drive.google.com/drive/folders/1YMOqxvZWPiSgfGj5fvvDHRJn4XkMR9QT?usp=sharing)
 4. Các chức năng đã làm được 
 - Hiển thị thông tin sản phẩm từ database ra màn hình
 - Thêm sản phẩm mới
